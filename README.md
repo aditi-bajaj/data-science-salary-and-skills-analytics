@@ -43,7 +43,7 @@ The analysis focuses on understanding how factors like job role, skills, locatio
   * Slicers (Job Title, Country, Job Type)
 
 📷 Preview:
-![Dashboard](images/project_1_dashboard_preview)
+![Dashboard](images/project_1_dashboard_preview.png)
 
 ---
 
@@ -56,7 +56,7 @@ The analysis focuses on understanding how factors like job role, skills, locatio
   * Top skills by frequency and pay
 
 📷 Preview:
-![Analysis](images/project_2_analysis_preview)
+![Analysis](images/project_2_analysis_preview.png)
 
 ---
 
