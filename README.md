@@ -205,8 +205,3 @@ This project demonstrates how Excel can be used as a complete analytics platform
 
 The insights generated help explain how job roles, skills, geography, and employment patterns influence compensation and career opportunities in data-related fields.
 
----
-
-## 👤 Author
-
-**Aditi Bajaj**
